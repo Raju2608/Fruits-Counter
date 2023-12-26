@@ -66,3 +66,5 @@ class FruitsCounter extends Component {
     )
   }
 }
+
+export default FruitsCounter
